@@ -18,7 +18,8 @@ const Navbar = () => {
         <p><a href="#donations">Donations</a></p>
       </div>
       </div>
-      
+      {/*  */}
+  
     </div>
   )
 };
