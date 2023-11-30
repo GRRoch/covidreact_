@@ -1,8 +1,8 @@
-export { default as Blog } from './blog/Blog';
-export { default as Features } from './features/Features';
+export { default as MoreInfo } from './moreInfo/MoreInfo';
+export { default as Vaccinations } from './vaccinations/Vaccinations';
 export { default as Footer } from './footer/Footer';
 export { default as Header } from './header/Header';
-export { default as Possibility } from './possibility/Possibility';
-export { default as WhatGPT3 } from './whatGPT3/WhatGPT3';
+export { default as Possibility } from './volunteer/Volunteer';
+export { default as Testing } from './testing/Testing';
 export { default as Donations } from './donations/Donations';
 export { default as Intro } from './intro/Intro';

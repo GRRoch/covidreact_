@@ -1,7 +1,7 @@
 import React from 'react';
-import './features.css';
+import './vaccinations.css';
 import logo1 from '../../assets/volunteerColorfulHands.png';
-const Features = () => {
+const Vaccinations = () => {
   return (
     <div id = "Vaccinations">
       <br/>
@@ -33,5 +33,5 @@ const Features = () => {
   )
 }
 
-export default Features
+export default Vaccinations
 // figure out the styling in jsx for buttons

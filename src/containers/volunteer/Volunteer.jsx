@@ -1,8 +1,8 @@
 import React from 'react';
-import './possibility.css';
+import './volunteer.css';
 import logo1 from '../../assets/donateItems.jpg';
 
-const Possibility = () => {
+const Volunteer = () => {
   return (
     <div id ='Donations'>
         <br />
@@ -38,5 +38,5 @@ const Possibility = () => {
   )
 }
 
-export default Possibility
+export default Volunteer
 // figure out styling for jsx

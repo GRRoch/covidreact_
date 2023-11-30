@@ -1,8 +1,8 @@
 import React from 'react';
-import './whatGPT3.css';
+import './testing.css';
 import logo1 from '../../assets/covidTestKit.webp';
 
-const WhatGPT3 = () => {
+const Testing = () => {
   return (
     <div id ="Testing">
      <br />
@@ -102,4 +102,4 @@ const WhatGPT3 = () => {
   )
 }
 
-export default WhatGPT3
+export default Testing
