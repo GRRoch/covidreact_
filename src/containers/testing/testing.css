@@ -25,3 +25,6 @@ img{
     margin-bottom: 10px;
     text-align: center;
 }
+.button {
+  cursor: pointer;
+}

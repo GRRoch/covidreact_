@@ -7,10 +7,12 @@ const Footer = () => {
     <div>
         <div class = "picture2" >
       <img src={logo1} alt="/Logo"/>
+      <br />
+      <p1> © 2023 Covid-Answers</p1>
+      <br /><br />
         </div>
-          <p1> © 2023 Covid-Answers</p1>
           <br/>
-
+        
     </div>
   )
 }

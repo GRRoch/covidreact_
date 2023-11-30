@@ -6,7 +6,8 @@ import logo3 from '../../assets/monthlyConfirmCases09-10.png';
 const Intro = () => {
   return (
     <div class = "row">
-        <div><h2>Covid-Answers</h2></div>
+      <br /><br />
+        <div><h1>Covid-Answers</h1></div>
       <div class = "column">
         <div class = "picture1" >
         <img src= {logo1} alt="Pie" />

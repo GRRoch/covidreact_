@@ -1,5 +1,7 @@
 import React from 'react';
 import './moreInfo.css';
+import logo1 from '../../assets/moreInfoBanner.webp';
+import logo2 from '../../assets/handWashing.jpg';
 const MoreInfo = () => {
   return (
     <div id='More Information'>
@@ -33,3 +35,4 @@ const MoreInfo = () => {
 }
 
 export default MoreInfo
+// use padding, margin, box model to keep compt seperate. Investigate divider section  options.

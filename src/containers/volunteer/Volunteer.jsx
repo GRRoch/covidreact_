@@ -1,10 +1,9 @@
 import React from 'react';
 import './volunteer.css';
-import logo1 from '../../assets/donateItems.jpg';
-
+import logo1 from '../../assets/volunteerColorfulHands.png';
 const Volunteer = () => {
   return (
-    <div id ='Donations'>
+    <div id ='Volunteer'>
         <br />
         <h1>Donations</h1>
       <div class = "pictureDonation">

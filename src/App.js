@@ -15,16 +15,23 @@ const App = () => (
         <br/><br/><br/>
         </div>
         <div>
+          <br/><br/>
         <MoreInfo />
+        <br/><br/><br/><br/>
         </div>
         <div>
+          <br/>
         <Testing />
         </div>
         <div>
         <Vaccinations />
         </div>
+        <div>
         <Volunteer />
+        </div>
+        <div>
         <Donations />
+        </div>
         <div>
         <Footer />
         </div>
