@@ -6,12 +6,12 @@ import logo3 from '../../assets/monthlyConfirmCases09-10.png';
 const Intro = () => {
   return (
     <div class = "row">
-        <div><h1>Covid-Answers</h1></div>
+        <div><h2>Covid-Answers</h2></div>
       <div class = "column">
         <div class = "picture1" >
         <img src= {logo1} alt="Pie" />
         </div>
-        <div><h1>How does age affect you?</h1></div>
+        <h1>How does age affect you?</h1>
         <p>Age plays a key role in the human body's response to Covid-19.
            Elderly individuals are the more susceptible to death caused Covid-19 due to having a weaker immune system.
             While younger individuals are more likely to survive they are just as susceptible to death due how quickly 

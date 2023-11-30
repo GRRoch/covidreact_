@@ -10,14 +10,25 @@ const App = () => (
       <Navbar />
       <Header />
         </div> 
+        <div>
         <Intro/>
+        <br/><br/><br/>
+        </div>
+        <div>
         <Brand />
+        </div>
+        <div>
         <WhatGPT3 />
+        </div>
+        <div>
         <Features />
+        </div>
         <Possibility />
         <CTA />
         <Blog />
+        <div>
         <Footer />
+        </div>
     </div>
   );
 
