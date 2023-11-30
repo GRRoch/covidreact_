@@ -5,3 +5,4 @@ export { default as Header } from './header/Header';
 export { default as Possibility } from './possibility/Possibility';
 export { default as WhatGPT3 } from './whatGPT3/WhatGPT3';
 export { default as Donations } from './donations/Donations';
+export { default as Intro } from './intro/Intro';

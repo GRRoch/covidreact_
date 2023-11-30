@@ -3,6 +3,8 @@
     justify-content: center;
     align-items: center;
     padding: 0x 6rem;
+     position: sticky; 
+     /* position: fixed;// fixes navbar without block background  */
 }
 
 
