@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav class="navbar">
         <ul>
           <div id='navbar-links_logo'>
-          <img src={logo1} alt="Logo" />
+          {/*<img src={logo1} alt="Logo" /> Resize logo//*/}
           </div>
           <li><a href="#top">Home</a></li>
           <li><a href="#More Information">More Information</a></li>
