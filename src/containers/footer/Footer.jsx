@@ -4,11 +4,13 @@ import logo1 from '../../assets/newLogo.png';
 import { RiAlignCenter } from 'react-icons/ri';
 const Footer = () => {
   return (
-    <div>
+    <div id='footer'>
         <div class = "picture2" >
       <img src={logo1} alt="/Logo"/>
       <br />
-      <p1> © 2023 Covid-Answers</p1>
+      <div id='logoText'>
+      <p> © 2023 Covid-Answers</p>
+      </div>
       <br /><br />
         </div>
           <br/>
