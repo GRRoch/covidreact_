@@ -5,7 +5,7 @@ import logo1 from '../../assets/covidTestKit.webp';
 const Testing = () => {
   return (
     <div id ="Testing">
-     <br />
+     <br /><br />
      <h1>Testing</h1>
       <div class ="pictureTesting" >
         <img src={logo1} alt="A COVID-19 test kit. /logo"/>

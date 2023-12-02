@@ -12,15 +12,13 @@ const App = () => (
         </div> 
         <div>
         <Intro/>
-        <br/><br/><br/>
         </div>
         <div>
-          <br/><br/>
+        </div>
+        <div className='More_Info'>
         <MoreInfo />
-        <br/><br/><br/><br/>
         </div>
         <div>
-          <br/>
         <Testing />
         </div>
         <div>

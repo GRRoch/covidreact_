@@ -28,8 +28,33 @@ h1, h2, h3 {
   text-align: center;
 }
 .pictureVolunteer{
-height: 500px; width: auto;text-align: center;
+height: 500px; width: stretch;text-align: center;
 }
-.button{
-cursor: pointer;
+
+.donate-button {
+  background-color: #325680;
+  border: 1px solid #325680;
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.donate-button:hover {
+  background-color: #1a3a80;
+  transition: all 0.32s ease 0s;
+}
+
+/* External Link Button */
+.button-external{
+  background-color: blue; 
+  color: white; 
+  font-size: 16px; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25); 
+  transition: all 0.2s ease-in-out;
 }

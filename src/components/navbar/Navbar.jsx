@@ -1,26 +1,22 @@
 import React from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri' ;
-import logo from '../../assets/newLogo.png';
+import logo1 from '../../assets/newLogo.png';
 import './navbar.css';
 const Navbar = () => {
   return (
-    <div className="gpt3__navbar">
-      <div className="gpt3__navbar-links">
-      <div className="gpt3__navbar-links_logo">
-      <img src={logo} alt="logo" />
-      </div>
-      <div className="gpt3__navbar-links_container">
-        <p><a href="#home">Home</a></p>
-        <p><a href="#wgpt3">More Information</a></p>
-        <p><a href="#possibility">Testing</a></p>
-        <p><a href="#features">Vaccinations</a></p>
-        <p><a href="#blog">Volunteer</a></p>
-        <p><a href="#donations">Donations</a></p>
-      </div>
-      </div>
-      {/*  */}
-  
-    </div>
+    <nav class="navbar">
+        <ul>
+          <div id='navbar-links_logo'>
+          <img src={logo1} alt="Logo" />
+          </div>
+          <li><a href="#top">Home</a></li>
+          <li><a href="#More Information">More Information</a></li>
+          <li><a href="#Testing">Testing</a></li>
+          <li><a href="#Vaccinations">Vaccinations</a></li>
+          <li><a href="#Volunteer">Volunteer</a></li>
+          <li><a href="#Donations">Donations</a></li>
+        </ul>
+      </nav>
   )
 };
 

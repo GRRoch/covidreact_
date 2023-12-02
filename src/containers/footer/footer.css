@@ -2,8 +2,12 @@
     width: auto;
     height: 100px;
     text-align: center;
-    
+    background-color:#AFDEFF ;
   }
   .p1 {
     text-align: center;
+    background-color: #AFDEFF;
+  }
+  .logoText p {
+    background-color: #AFDEFF;
   }

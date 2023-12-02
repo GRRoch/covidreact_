@@ -28,3 +28,6 @@ img{
 .button {
   cursor: pointer;
 }
+.pictureTesting {
+  width: auto; height: 500px;text-align: center;
+}

@@ -6,17 +6,16 @@ import logo3 from '../../assets/monthlyConfirmCases09-10.png';
 const Intro = () => {
   return (
     <div class = "row">
-      <br /><br />
         <div><h1>Covid-Answers</h1></div>
       <div class = "column">
         <div class = "picture1" >
         <img src= {logo1} alt="Pie" />
-        </div>
         <h1>How does age affect you?</h1>
         <p>Age plays a key role in the human body's response to Covid-19.
            Elderly individuals are the more susceptible to death caused Covid-19 due to having a weaker immune system.
             While younger individuals are more likely to survive they are just as susceptible to death due how quickly 
             Covid-19 attacks the immune system.</p>
+            </div>
       </div>
       <div class = "column">
       <img src={logo2} alt="Monthly" />
@@ -31,9 +30,10 @@ const Intro = () => {
          While positive cases of Covid-19 may be low it is important to remember that the R value plays a key role
           in determining how fast an outbreak can occur.</p>
         </div>
-      <br /><br /><br /><br />
       {/*  */}
+    <div>
 
+    </div>
     </div>
   )
 }

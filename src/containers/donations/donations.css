@@ -25,3 +25,6 @@ img{
   .button{
   cursor: pointer;
   }
+  .pictureDonation{
+    height: 500px; width: auto;text-align: center;
+  }

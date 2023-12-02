@@ -4,7 +4,7 @@ import logo1 from '../../assets/donateItems.jpg';
 const Donations = () => {
   return (
     <div id='Donations'>
-         <br />
+         <br /><br />
         <h1>Donations</h1>
       <div class = "pictureDonation">
         <img src={logo1} alt="A picture of a box with donation written across among other donation items. /logo"/>
